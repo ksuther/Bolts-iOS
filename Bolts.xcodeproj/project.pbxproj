@@ -936,11 +936,6 @@
 		8E9C3D0F17DE9DE000427E62 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					armv7,
-					armv7s,
-					i386,
-				);
 				DSTROOT = /tmp/Bolts.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Bolts/Bolts-Prefix.pch";
@@ -954,11 +949,6 @@
 		8E9C3D1017DE9DE000427E62 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = (
-					armv7,
-					armv7s,
-					i386,
-				);
 				DSTROOT = /tmp/Bolts.dst;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Bolts/Bolts-Prefix.pch";
